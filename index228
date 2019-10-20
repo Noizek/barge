@@ -1,0 +1,24 @@
+<!Doctype HTML>
+
+<html>
+
+	<head>
+		<title>Baymax</title>
+	</head>
+	
+	<body>
+			<img src="images/Baymax.gif" alt="Baymax">
+			Baymax <b> Baymax </b> Baymax
+			<img src="images/Baymax.gif" alt="Baymax">
+			<br>
+			<img src="images/Baymax.gif" alt="Baymax">
+			<img src="images/Baymax.gif" alt="Baymax">
+			Baymax <b>Baymax </b> Baymax
+			<hr>
+			<br>  <h1>Baymax<h1>
+			<img src="images/Baymax.gif" alt="Baymax">
+			<img src="images/Baymax.gif" alt="Baymax">
+			<img src="images/Baymax.gif" alt="Baymax">
+	</body>
+
+</html>
